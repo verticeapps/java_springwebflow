@@ -15,6 +15,9 @@ cd booking-mvc
 mvn tomcat7:run
 ````
 
+[![img](https://s3-ap-southeast-1.amazonaws.com/megampub/images/megamafrica/DEPLOY-TO-MEGAM-AFRICA1.png)](https://console.megamafrica.com)
+
+
 Eclipse
 =======
 
@@ -36,6 +39,3 @@ Contributing
 ============
 
 [Pull requests](http://help.github.com/send-pull-requests) are welcome.
-
-
-[![img](https://s3-ap-southeast-1.amazonaws.com/megampub/images/megamafrica/DEPLOY-TO-MEGAM-AFRICA1.png)](https://console.megamafrica.com)
