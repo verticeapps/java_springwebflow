@@ -15,7 +15,7 @@ cd booking-mvc
 mvn tomcat7:run
 ````
 
-[![img](https://s3-ap-southeast-1.amazonaws.com/megampub/images/megamafrica/DEPLOY-TO-MEGAM-AFRICA2.png)](https://console.megamafrica.com)
+[![img](https://s3-ap-southeast-1.amazonaws.com/megampub/images/vertice/DEPLOY-TO-MEGAM-VERTICE2.png)](https://www.megam.io)
 
 
 Eclipse
